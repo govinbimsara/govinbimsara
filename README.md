@@ -9,20 +9,25 @@ I’m a Data Scientist and an AI enthusiest. My journey has taken me from buildi
 ### 🧰 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35" alt="Python" />
-  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="35" height="35" alt="Snowflake" />
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-tile.svg" width="35" height="35" alt="Tableau" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="35" height="35" alt="AWS" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="35" height="35" alt="GCP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" height="35" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="45" height="45" alt="Snowflake" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45" height="45" alt="AWS" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45" alt="GCP" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" alt="TensorFlow" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="scikit-learn" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat&logo=google&logoColor=white" alt="Google ADK" height="28" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" alt="LangChain" height="28" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=flat&logo=github&logoColor=white" alt="LangGraph" height="28" />
-  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=flat&logo=python&logoColor=white" alt="CrewAI" height="28" />
+  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=github&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=python&logoColor=white" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/XGBoost-23395B?style=for-the-badge&logo=python&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/CatBoost-FDB813?style=for-the-badge&logo=cat&logoColor=black" alt="CatBoost" />
 </p>
 
 ---
