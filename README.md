@@ -2,7 +2,7 @@
 
 **`Data Scientist | GenAI & Agentic AI Specialist`**
 
-I’m a Data Scientist and an AI enthusiast. My journey has taken me from building traditional predictive analytics models to architecting **Agentic AI** and **autonomous systems**. I am deeply passionate about leveraging AI to solve complex problems and making our daily lives easier and more efficient.
+Hi there ! I’m a Data Scientist and an AI enthusiast. My journey has taken me from building traditional predictive analytics models to architecting **Agentic AI** and **autonomous systems**. I am deeply passionate about leveraging AI to solve complex problems and making our daily lives easier and more efficient.
 
 ---
 
